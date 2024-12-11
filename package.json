@@ -1,9 +1,8 @@
 {
-  "name": "@shopware-ag/webpack-copy-after-build",
+  "name": "@cicada-ag/webpack-copy-after-build",
   "version": "1.0.1",
   "description": "Copies files after a webpack build was finished",
   "main": "index.js",
-  "author": "klarstil",
   "license": "MIT",
   "dependencies": {
     "mkdirp": "1.0.3"
